@@ -9,5 +9,3 @@ This repository currently contains a `voting_system` submodule reference rather 
 - Ensure the `voting_system` submodule points to an accessible repository.
 - Add project documentation covering the actual features, architecture, setup instructions, and technologies used.
 - Attribute new work through commits made with the maintainer's own Git identity.
-
-The existing commit history is intentionally preserved.
